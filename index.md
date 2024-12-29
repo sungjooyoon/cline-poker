@@ -8,7 +8,7 @@ output: html_document
 
 
 ```{}
-The following code was for basic object-oriented programming practice and acclimating to high-level language
+The following code is for accessibly simulating poker bots in an object-oriented environment
 
 import java.util.ArrayList;
 import java.util.Scanner;
